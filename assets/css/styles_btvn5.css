@@ -17,6 +17,9 @@
     width: 60%;
     height: 500px;
     background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
     .text-1{
@@ -28,6 +31,7 @@
 
     .text-2{
         font-family: sans-serif;
+        font-size: 25px;
     }
 
     .text-2{
